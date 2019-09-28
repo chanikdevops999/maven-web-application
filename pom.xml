@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://18.232.77.17:8081/repository/Jenkins-Maven-Release/</url>
+	      <url>http://18.232.77.17:8081/repository/paytm-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.232.77.17:8081/repository/Jenkins-Maven-Snapshot/</url>
+	      <url>http://18.232.77.17:8081/repository/paytm-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

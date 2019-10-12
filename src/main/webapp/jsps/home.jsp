@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to chanikya   Technologies.</h1>
+<h1 align="center">Welcome to chanikya Harman Technologies.</h1>
 <h1 align="center">Very Good ...Teaching Real Time scnerios</h1>
 <hr>
 <div style="text-align: center;">

@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://52.66.247.234:9000/</url>
+	      <url>http://65.2.152.40:8081/repository/Hoffman-Releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.207.198.232:8081/repository/aws-snapshot/</url>
+	      <url>http://65.2.152.40:8081/repository/Hoffman-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
